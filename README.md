@@ -1,5 +1,6 @@
 # RDB
 An academic athlete management database project made using Java/JDBC
+
 Made in collaboration with @BrendonIrwan and @davidzhouars
 
 ## Running
