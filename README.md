@@ -1,4 +1,4 @@
-# RDB
+# athDB
 An academic athlete management database project made using Java/JDBC
 
 Made in collaboration with [@BrendonIrwan](https://github.com/BrendonIrwan) and [@davidzhouars](https://github.com/davidzhouars)
