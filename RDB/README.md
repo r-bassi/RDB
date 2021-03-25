@@ -1,4 +1,4 @@
-# RDB
+# athDB - RDB
 
 —Turns out that our initials make up a cool DB name.
 
